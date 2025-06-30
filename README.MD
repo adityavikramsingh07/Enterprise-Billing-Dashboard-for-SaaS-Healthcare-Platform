@@ -19,7 +19,4 @@ An advanced and scalable ERP system designed to streamline medical management pr
 
 ## Organization Details
 
-- **GitHub Organizations**:
-  - [AsyncDevCo](https://github.com/asyncdevco)
-  - [AsyncDevNet](https://github.com/asyncdevnet)
 - **Developer Contact**: [adityavsingh95@gmail.com](mailto:adityavsingh95@gmail.com)
